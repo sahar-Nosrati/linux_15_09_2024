@@ -96,3 +96,13 @@ How do you create and apply tags in Git?
   - git tag <tagName>
 - evaluation tag -> 
   - git tag --list 
+- push ti github ->
+  - git push --tags 
+
+------------------------------------------------------
+
+How do you compare the differences between two branches?
+- git diff <name of your first branch> .. <name of your second branch>
+
+------------------------------------------------------
+
